@@ -1,4 +1,4 @@
-# Revolutionizing-Farming-with-Drone-Technology
+#  Plant Leaf Disease Detection
 This project aims to empower farmers by leveraging drones and machine learning for early detection of crop diseases, helping reduce crop losses, minimize pesticide use, and promote sustainable agriculture practices.
 
  Project Overview
